@@ -1,2 +1,2 @@
 # HelloWorld
-lam quen
+lam quen cho biết
